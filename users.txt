@@ -1,0 +1,5 @@
+ad,ad2,admin
+u1,u1,simple
+u2,u2,simple
+admin,admin,admin
+user1,user1,simple
